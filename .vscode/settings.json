@@ -3,6 +3,7 @@
         "cloudinary",
         "datepicker",
         "hmac",
-        "HMACSHA"
+        "HMACSHA",
+        "Timeago"
     ]
 }
