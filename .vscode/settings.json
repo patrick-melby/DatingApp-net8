@@ -6,5 +6,11 @@
         "HMACSHA",
         "tabset",
         "Timeago"
-    ]
+    ],
+    "css.styleSheets": [
+        "client/node_modules/bootstrap/dist/css/bootstrap.css",
+        "**/*.css",
+        "**/${fileBasenameNoExtension}.css"
+    ],
+    "css.autoValidation": "Always"
 }
